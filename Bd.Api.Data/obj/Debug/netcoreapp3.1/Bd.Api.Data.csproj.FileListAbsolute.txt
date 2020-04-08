@@ -1,0 +1,12 @@
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\bin\Debug\netcoreapp3.1\Bd.Api.Data.deps.json
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\bin\Debug\netcoreapp3.1\Bd.Api.Data.dll
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\obj\Debug\netcoreapp3.1\Bd.Api.Data.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\obj\Debug\netcoreapp3.1\Bd.Api.Data.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\obj\Debug\netcoreapp3.1\Bd.Api.Data.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\bin\Debug\netcoreapp3.1\Bd.Api.Data.pdb
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\bin\Debug\netcoreapp3.1\Bd.Api.Domain.dll
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\bin\Debug\netcoreapp3.1\Bd.Api.Domain.pdb
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\obj\Debug\netcoreapp3.1\Bd.Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\obj\Debug\netcoreapp3.1\Bd.Api.Data.csproj.CopyComplete
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\obj\Debug\netcoreapp3.1\Bd.Api.Data.dll
+C:\Users\ASUS\source\repos\BdApiProject\Bd.Api.Data\obj\Debug\netcoreapp3.1\Bd.Api.Data.pdb
