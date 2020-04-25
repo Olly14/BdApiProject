@@ -41,7 +41,7 @@ namespace Bd.Api.Controllers
 
         // GET: api/Products
         [HttpGet]
-        [Route("api/Products")]
+        //[Route("api/Products")]
         public async Task<IEnumerable<ProductDto>> GetProducts()
         {
             return _mapper.Map<IEnumerable<ProductDto>>(await _productRepository.FindAllAsync());
